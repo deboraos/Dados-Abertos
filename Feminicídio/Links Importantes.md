@@ -1,3 +1,5 @@
-- Dados Abertos de [Pesquisa sobre Feminicídio](http://dados.gov.br/dataset/pesquisa-sobre-feminicidio).
-- Documento da Organização Artigo 19 de [Dados sobre feminicídio no Brasil](https://artigo19.org/wp-content/blogs.dir/24/files/2018/03/Dados-Sobre-Feminic%C3%ADdio-no-Brasil-.pdf).
-- Conselho Nacional do Ministério Público [Cadastro de Feminicídio](https://www.cnmp.mp.br/portal/institucional/enasp/cadastro-de-feminicidio?highlight=WyJmZW1pbmljXHUwMGVkZGlvIiwiZmVtaW5pY1x1MDBlZGRpbyciXQ==).
+- Ministério da Justiça - [Pesquisa sobre feminicídio](https://bit.ly/2YoXit2).
+- Organização Artigo 19 - [Dados sobre feminicídio no Brasil](https://bit.ly/2YqHKoz).
+- Conselho Nacional do Ministério Público - [Cadastro de feminicídio](https://bit.ly/3glDg91).
+- Secretaria de Segurança Pública SP - [Estatísticas de violência contra as mulheres](https://bit.ly/3hlKJpP).
+- Instituto de Segurança Pública RJ - [Dossiê mulher](https://bit.ly/2Qiyezf).
