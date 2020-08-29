@@ -3,5 +3,5 @@
 - Conselho Nacional do Ministério Público - [Cadastro de feminicídio](https://bit.ly/3glDg91).
 - Secretaria de Segurança Pública SP - [Estatísticas de violência contra as mulheres](https://bit.ly/3hlKJpP).
 - Instituto de Segurança Pública RJ - [Dossiê mulher](https://bit.ly/2Qiyezf).
-- Balanço 2019 [Disque 180](https://www.gov.br/mdh/pt-br/assuntos/noticias/2020-2/maio/BalanoDisque180v21.pdf)
-- Senado Federal [Painel de Violência contra Mulheres](https://bit.ly/2G4kaaJ)
+- Balanço 2019 - [Disque 180](https://www.gov.br/mdh/pt-br/assuntos/noticias/2020-2/maio/BalanoDisque180v21.pdf)
+- Senado Federal - [Painel de Violência contra Mulheres](https://bit.ly/2G4kaaJ)
