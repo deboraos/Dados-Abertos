@@ -5,3 +5,4 @@
 - Instituto de Segurança Pública RJ - [Dossiê mulher](https://bit.ly/2Qiyezf).
 - Balanço 2019 - [Disque 180](https://www.gov.br/mdh/pt-br/assuntos/noticias/2020-2/maio/BalanoDisque180v21.pdf)
 - Senado Federal - [Painel de Violência contra Mulheres](https://bit.ly/2G4kaaJ)
+- Senado Federal - [Dados da Ouvidoria Nacional de Direitos Humanos](https://dados.gov.br/dataset/ouvidoria-nacional-de-direitos-humanos-ondh)
